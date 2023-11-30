@@ -1,3 +1,9 @@
+## SimpleKitchen
+
+SimpleKitchen is an inventory keeper, recipe database and meal planner, customisable to your dietary preferences and needs.
+
+SimpleKitchen will always be entirely free and entirely open source, as far as it is developed.
+
 ### Diets
 Diets currently supported or planned to be supported are:
 - Vegetarianism
