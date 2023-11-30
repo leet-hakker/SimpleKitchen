@@ -17,7 +17,6 @@ Diets currently supported or planned to be supported are:
 - Ital food
 - Kosher food
 - Seventh Day Adventist Diet
-- Word of Wisdom 
 - Pescatarianism
 - Pollotarianism
 - Gluten-free/Coeliac
